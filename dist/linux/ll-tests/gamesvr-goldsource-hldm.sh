@@ -154,7 +154,7 @@ should_have 'Metamod comes with ABSOLUTELY NO WARRANTY' 'metamod loaded successf
 should_have 'AMX Mod X comes with ABSOLUTELY NO WARRANTY' 'amx mod x loaded successfully';
 
 # Verify server responds to commands
-should_echo "say STARTING COMMAND TESTS" '<Half-Life> STARTING COMMAND TESTS';
+should_echo "say STARTING COMMAND TESTS" '> STARTING COMMAND TESTS';
 #####################################################################################################
 #####################################################################################################
 
